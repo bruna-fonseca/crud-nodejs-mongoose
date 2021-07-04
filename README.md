@@ -6,7 +6,7 @@
   <a href="#arquitetura">Arquitetura</a>
 </p>
 
-Iniciando um projeto para pratica `Node.js` com o `mongoose` com a inspiração do desafio ["5 CRUDS MongoDB em 5 dias"](https://github.com/simaraconceicao/node-mongo-mongoose) da Simara Conceição. 
+Iniciando um projeto para praticar `Node.js` com o `mongoose` com a inspiração do desafio ["5 CRUDS MongoDB em 5 dias"](https://github.com/simaraconceicao/node-mongo-mongoose) da Simara Conceição. 
 
 <h3 id="projeto">Sobre o projeto</h3>
 
