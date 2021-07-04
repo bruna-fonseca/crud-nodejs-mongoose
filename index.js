@@ -8,5 +8,5 @@ const PORT = process.env.PORT;
 app.use(express.json());
 
 app.listen(PORT, () => {
-  console.log();
+  console.log(`Servidor rodando na porta ${PORT}`);
 });
