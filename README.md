@@ -6,13 +6,14 @@
   <a href="#arquitetura">Arquitetura</a>
 </p>
 
-Iniciando um projeto para pratica `Node.js` com o `mongoose` com a inspiração do desafio ("5 CRUDS MongoDB em 5 dias")[https://github.com/simaraconceicao/node-mongo-mongoose] da Simara Conceição. 
+Iniciando um projeto para pratica `Node.js` com o `mongoose` com a inspiração do desafio "(5 CRUDS MongoDB em 5 dias)"[https://github.com/simaraconceicao/node-mongo-mongoose] da Simara Conceição. 
 
-## Sobre o projeto {#projeto}
+<h3 id="projeto">Sobre o projeto</h3>
 
 A ideia é realizar os cincos CRUDS aos poucos e adaptar ao meu estilo de código e ao meu contexto também. É mais com o intuito de manter a prática e o frescor do conteúdo em mente.
 
-## Ferramentas que utilizarei {#ferramentas}
+<h3 id="ferramentas">Ferramentas que utilizarei</h3>
+
 
 | Ferramenta |
 | ----------- |
@@ -26,16 +27,16 @@ A ideia é realizar os cincos CRUDS aos poucos e adaptar ao meu estilo de códig
 | MongoDb |
 | Insomnia |
 
-## Arquitetura {#arquitetura}
+<h3 id="arquitetura">Arquitetura</h3>
 
-Utilizarei o MSC como forma de componetizar e estrutura minha API Restful. 
+Utilizarei o MSC como forma de componetizar e estruturar minha API. 
 
 Então a estrutura será parecida com essa: 
 
 ``
-  models
-  routes
-  controllers
-  index.js
+  -models
+  -routes
+  -controllers
+  -index.js
 ``
 
