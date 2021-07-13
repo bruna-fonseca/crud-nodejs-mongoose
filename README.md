@@ -19,6 +19,7 @@ A ideia é realizar os cincos CRUDS aos poucos e adaptar ao meu estilo de códig
 | ----------- |
 | javascript |
 | nodejs |
+| http-status-codes |
 | express |
 | dotenv |
 | mongoose |
